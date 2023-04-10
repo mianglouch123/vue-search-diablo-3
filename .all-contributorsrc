@@ -1,0 +1,75 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "baumannzone",
+      "name": "Jorge Baumann",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5422102?v=4",
+      "profile": "https://twitter.com/baumannzone",
+      "contributions": [
+        "code",
+        "maintenance",
+        "test",
+        "design",
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "ludmartinez",
+      "name": "Diego Martínez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7889981?v=4",
+      "profile": "https://github.com/ludmartinez",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AngelCabrera",
+      "name": "Angel Cabrera",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27207751?v=4",
+      "profile": "http://linkedin.com/in/angel-cabrera/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "alexanderjanke",
+      "name": "Alexander Janke",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33967771?v=4",
+      "profile": "https://github.com/alexanderjanke",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dmunoz-10",
+      "name": "Daniel Muñoz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20992899?v=4",
+      "profile": "https://github.com/dmunoz-10",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "RetaxMaster",
+      "name": "RetaxMaster",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/48848312?v=4",
+      "profile": "https://www.facebook.com/RetaxMaster/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "diablo3-vue-platzi",
+  "projectOwner": "baumannzone",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
